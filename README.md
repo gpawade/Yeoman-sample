@@ -42,4 +42,16 @@ module.export = generator.Base.extend();
 ```
 
 
+### Usage
+
+```
+// will display the help of yeoman generator
+$ yo sample --help 	
+
+$ yo sample 'application name' --jquery --bootrap
+
+
+```
+
+
 
