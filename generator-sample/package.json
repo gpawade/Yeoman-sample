@@ -1,0 +1,22 @@
+{
+  "name": "generator-sample",
+  "version": "0.0.0",
+  "description": "Creating custom yeoman generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpawade/Yeoman-sample"
+  },
+  "keywords": [
+    "javascript",
+    "yeoman"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/gpawade/Yeoman-sample/issues"
+  }
+}
