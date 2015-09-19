@@ -11,12 +11,14 @@
     "url": "https://github.com/gpawade/Yeoman-sample"
   },
   "keywords": [
-    "javascript",
-    "yeoman"
+    "yeoman-generator"
   ],
   "author": "",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/gpawade/Yeoman-sample/issues"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.20.3"
   }
 }
